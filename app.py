@@ -110,4 +110,4 @@ def predict():
         return render_template('result.html', result=result, probability=pred_prob, image_filename=filename)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
