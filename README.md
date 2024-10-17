@@ -18,8 +18,16 @@ A **Fracture Detection System** using deep learning to detect fractures from med
 ## 📸 Screenshots
 
 - Upload page for X-ray images
+![pic1](https://github.com/prabhmeharbedi/fracture-detection/blob/main/images/pic1.png?raw=true)
+
+- Upload page for X-ray images
+![pic2](https://github.com/prabhmeharbedi/fracture-detection/blob/main/images/pic2.png?raw=true)
+
 - Real-time prediction with fracture classification
-- Model confidence scores
+![pic3](https://github.com/prabhmeharbedi/fracture-detection/blob/main/images/pic3.png?raw=true)
+
+- Real-time prediction with fracture classification
+![pic4](https://github.com/prabhmeharbedi/fracture-detection/blob/main/images/pic4.png?raw=true)
 
 ## 🔧 Technologies Used
 
