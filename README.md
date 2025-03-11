@@ -1,4 +1,4 @@
-# Fracture Detection System
+# Fracture Detection System 
 
 [![Deployment Status](https://img.shields.io/badge/Deployment-Active-green)](https://web-production-e4a9.up.railway.app/)
 
